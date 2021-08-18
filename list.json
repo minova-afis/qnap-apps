@@ -4,7 +4,7 @@
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_gitlab.png",
-        "displayName": "GitLab",
+        "displayName": "GitLab-minova",
         "name": "gitlab",
         "version": "11.4.0",
         "location": "https://hub.docker.com/r/sameersbn/gitlab",
